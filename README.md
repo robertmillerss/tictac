@@ -1,3 +1,6 @@
+my discord is solkt.
+i am not a bot 
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
